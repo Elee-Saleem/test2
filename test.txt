@@ -1,0 +1,4 @@
+git checkout branchname
+git push -u origin branchname
+git push 
+git push origin branchname:branchname
